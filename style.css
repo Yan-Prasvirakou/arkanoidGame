@@ -1,0 +1,13 @@
+
+.cnv {
+	width: 640px;
+	height: 360px;
+	margin: 20px auto;
+	display: block;
+}
+
+.hints {
+	text-align: center;
+	font: bold 18px arial;
+	color: #02284D;
+}
